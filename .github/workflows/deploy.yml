@@ -3,7 +3,7 @@ name: Deploy to EC2 ASG
 on:
   push:
     branches:
-      - main  # Change this to your branch namee
+      - main  # Change this to your branch nameee
     paths:
       - 'index.html'  # Only trigger when index.html changes
 
